@@ -1,0 +1,16 @@
+pl\biniek\model\User_.class
+pl\biniek\facade\UserFacade.class
+pl\biniek\dto\EventDto.class
+pl\biniek\model\AbstractEntity.class
+pl\biniek\facade\EventFacade.class
+pl\biniek\model\Event_.class
+pl\biniek\backend\exceptionsandhandlers\ExceptionAndLoggingInterceptorForFACADE.class
+pl\biniek\model\AbstractEntity_.class
+pl\biniek\model\User.class
+pl\biniek\backend\exceptionsandhandlers\BasicApplicationException.class
+pl\biniek\facade\AbstractFacade.class
+pl\biniek\view\bean\ScheduleView.class
+pl\biniek\view\controler\CallendarControler.class
+pl\biniek\view\exceptionhandlers\InterceptorForWeb.class
+pl\biniek\model\Event.class
+pl\biniek\view\exceptionhandlers\BindingInterfaceWeb.class
